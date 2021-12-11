@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809883001940",
+    "project_id": "rovodrive",
+    "storage_bucket": "rovodrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809883001940:android:1034dc1e6a9deff99139c1",
+        "android_client_info": {
+          "package_name": "com.example.robodrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809883001940-a1o8svmmj69f6cibntjgf032h8cle4rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJl7dyy4TyQdTsyQ4zKXSMDGUNI7N9G9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809883001940-a1o8svmmj69f6cibntjgf032h8cle4rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
