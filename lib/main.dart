@@ -166,7 +166,7 @@ class _HomePageState extends State<HomePage> {
                         context,
                         MaterialPageRoute(
                             builder: (context) =>
-                                Scaffold(body: TestPage gitf())));
+                                Scaffold(body: TestPage())));
                   },
                   child: Image(
                     image: AssetImage('images/test.png'),
