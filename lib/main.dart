@@ -4,6 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:robodrive/bluetoothconnection.dart';
+import 'package:robodrive/connection.dart';
 import 'package:robodrive/controller.dart';
 import 'package:robodrive/game.dart';
 import 'package:robodrive/info1.dart';
@@ -197,7 +198,7 @@ class _HomePageState extends State<HomePage> {
                 Navigator.push(
                     context,
                     MaterialPageRoute(
-                        builder: (context) => Scaffold(body: GamePage())));
+                        builder: (context) => Scaffold(body: BluetoothConnection())));
               },
               child: Image(
                 image: AssetImage('images/main_btn.png'),
